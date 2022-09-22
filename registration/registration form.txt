@@ -1,0 +1,109 @@
+<html>
+<head>
+<title>Registration Form</title>
+<h1> Registration Form </h1>
+</head>
+<body>
+
+<form>
+ First name:<br>
+ <input type="text"name="Firstname"><br>
+ Middle name:<br>
+ <input type="text"name="Middlename"><br>
+ Last name:<br>
+ <input type="text"name="Lastname">
+</form>
+
+<form>
+Sex:
+ <input type="checkbox" name="gender"value="M"checked>M
+ <input type="checkbox" name="gender"value="F"checked>F
+</form>
+
+Birthdate:
+<select>
+<option value="Month=1">January</option>
+<option value="Month=2">February</option>
+<option value="Month=3">March</option>
+<option value="Month=4">April</option>
+<option value="Month=5">May</option>
+<option value="Month=6">June</option>
+<option value="Month=7">July</option>
+<option value="Month=8">August</option>
+<option value="Month=9">September</option>
+<option value="Month=10">October</option>
+<option value="Month=11">November</option>
+<option value="Month=12">December</option>
+</select>
+
+<select>
+<option value="Date=1">1</option>
+<option value="Date=2">2</option>
+<option value="Date=3">3</option>
+<option value="Date=4">4</option>
+<option value="Date=5">5</option>
+<option value="Date=6">6</option>
+<option value="Date=7">7</option>
+<option value="Date=8">8</option>
+<option value="Date=9">9</option>
+<option value="Date=10">10</option>
+<option value="Date=11">11</option>
+<option value="Date=12">12</option>
+<option value="Date=13">13</option>
+<option value="Date=14">14</option>
+<option value="Date=15">15</option>
+<option value="Date=16">16</option>
+<option value="Date=17">17</option>
+<option value="Date=18">18</option>
+<option value="Date=19">19</option>
+<option value="Date=20">20</option>
+<option value="Date=21">21</option>
+<option value="Date=22">22</option>
+<option value="Date=23">23</option>
+<option value="Date=24">24</option>
+<option value="Date=25">25</option>
+<option value="Date=26">26</option>
+<option value="Date=27">27</option>
+<option value="Date=28">28</option>
+<option value="Date=29">29</option>
+<option value="Date=30">30</option>
+<option value="Date=31">31</option>
+</select>
+
+<select>
+<option value="Year=1">2000</option>
+<option value="Year=2">2001</option>
+<option value="Year=3">2002</option>
+<option value="Year=4">2003</option>
+<option value="Year=5">2004</option>
+<option value="Year=6">2005</option>
+<option value="Year=7">2006</option>
+<option value="Year=8">2007</option>
+<option value="Year=9">2008</option>
+<option value="Year=10">2009</option>
+<option value="Year=11">2010</option>
+<option value="Year=12">2011</option>
+<option value="Year=13">2012</option>
+<option value="Year=14">2013</option>
+<option value="Year=15">2014</option>
+<option value="Year=16">2015</option>
+<option value="Year=17">2016</option>
+<option value="Year=18">2017</option>
+<br>
+
+                             </select></br>
+<form>
+ Contact no.:<br>
+ <input type="text"number="Contact no."><br>
+</form>
+
+
+
+
+
+
+                             <input type="submit"value="Submit">
+</form>
+
+</body>
+</html>
