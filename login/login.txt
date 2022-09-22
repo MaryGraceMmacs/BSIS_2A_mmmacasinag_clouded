@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+	<head>
+
+	</head>
+	<body>
+		<form>
+		<table id ="loginform">
+			<tr>
+				<td colspan ="2"><h3>Login</h3></td>
+			</tr>
+			<tr>
+				<td>Username</td>
+				<td><input type = "text"/></td>
+			</tr>
+			<tr>
+				<td>Password</td>
+				<td> <input type ="password"/> </td>
+			<tr>
+			</tr>
+				<td> <a href="registration.html">Register Here </a> </td>
+				<td> <input type = "submit /> </td>
+			</tr>
+			<tr>
+				<td colspan="2"> forgot password?<a
+				href="forgotpassword.html"> Click Here </a></td>
+			</tr>
+
+		</table>
+		</form>
+	</body>
+</html>
+	
