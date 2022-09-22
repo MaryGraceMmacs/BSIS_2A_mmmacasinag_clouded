@@ -1,0 +1,30 @@
+<html>
+<head>
+  <link rel="stylesheet" type="text/css" href="css/master.css">
+  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+</head>
+
+<body>
+   
+<h1>clouded</h1>
+<h5>Electronic Document and Record Management System</h5>
+
+<div class="line-break"></div>
+
+
+<p>
+      Keeping records enhances the pleasure of the search and the chance of finding order and meaning in these events.
+	- Aldo Leopoid</p>
+
+</body>
+	<nav>
+		<ul class="navigation">
+			<li><a href = "Features.html"> Features </a></li>
+			<li><a href = "Pricing.html"> Pricing </a></li>
+			<li><a href = "Blog.html"> Blog</a></li>
+			<li><a href = "Contact.html"> Contact </a></li>
+			<li><a href = "Tutorials.html"> Tutorial </a></li>
+		</ul>
+	</nav>
+
+</html>

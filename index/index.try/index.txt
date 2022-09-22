@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Landing Page </title>
+	</head>
+	<body background="flower.jpg">
+		<h1 id="headline">clouded</h1>
+		<h3> Keeping records enhances the pleasure of the search and the chance of finding order and meaning in these events.- Aldo Leopoid</h3>
+	</body>
+	<nav>
+		<ul>
+			<li><a href = "Features.html"> Features </a></li>
+			<li><a href = "Pricing.html"> Pricing </a></li>
+			<li><a href = "Blog.html"> Blog</a></li>
+			<li><a href = "Contact.html"> Contact </a></li>
+			<li><a href = "Tutorials.html"> Tutorial </a></li>
+		</ul>
+	</nav>
+</html>
+	

@@ -1,0 +1,33 @@
+html { 
+  background: url(../images/background.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: "Helvetica Nieve" , sans-serif;
+}
+
+.profile-box {
+  padding:40px;
+  color:white;
+  margin: 0 auto;
+  margin-top: 140px;
+  text-align: center;
+}
+
+ h1 {
+  font-weight: 100;
+    letter-spacing: 6;
+      font-size: 40px;
+ }
+
+ p {
+  font-weight:200;
+    letter-spacing: 1;
+ }
+
+ .line-break {
+ 	width:300px;
+ 	margin: 0 auto;
+ 	border-top: 1px solid white;
+ }
